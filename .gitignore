@@ -8,7 +8,7 @@
 !.jshintignore
 Thumbs.db
 
-_build/
+# _build/
 _dist/
 *.zip
 release/*
